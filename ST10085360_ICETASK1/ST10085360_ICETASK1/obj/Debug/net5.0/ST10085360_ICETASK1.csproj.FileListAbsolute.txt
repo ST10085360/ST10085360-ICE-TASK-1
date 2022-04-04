@@ -1,0 +1,16 @@
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\obj\Debug\net5.0\ST10085360_ICETASK1.csproj.AssemblyReference.cache
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\obj\Debug\net5.0\ST10085360_ICETASK1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\obj\Debug\net5.0\ST10085360_ICETASK1.AssemblyInfoInputs.cache
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\obj\Debug\net5.0\ST10085360_ICETASK1.AssemblyInfo.cs
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\obj\Debug\net5.0\ST10085360_ICETASK1.csproj.CoreCompileInputs.cache
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\bin\Debug\net5.0\ST10085360_ICETASK1.exe
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\bin\Debug\net5.0\ST10085360_ICETASK1.deps.json
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\bin\Debug\net5.0\ST10085360_ICETASK1.runtimeconfig.json
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\bin\Debug\net5.0\ST10085360_ICETASK1.runtimeconfig.dev.json
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\bin\Debug\net5.0\ST10085360_ICETASK1.dll
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\bin\Debug\net5.0\ref\ST10085360_ICETASK1.dll
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\bin\Debug\net5.0\ST10085360_ICETASK1.pdb
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\obj\Debug\net5.0\ST10085360_ICETASK1.dll
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\obj\Debug\net5.0\ref\ST10085360_ICETASK1.dll
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\obj\Debug\net5.0\ST10085360_ICETASK1.pdb
+C:\Users\mikeh\source\repos\ST10085360_ICETASK1\ST10085360_ICETASK1\obj\Debug\net5.0\ST10085360_ICETASK1.genruntimeconfig.cache
